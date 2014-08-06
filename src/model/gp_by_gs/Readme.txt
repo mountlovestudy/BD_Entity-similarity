@@ -6,7 +6,7 @@ Created on Wed Aug 06 14:38:10 2014
 """
 
 GP: the gs model
-GPLVM: the GPLVM model and the DGPLVM mode
+GPLVM: the GPLVM model and the DGPLVM model
 GPc: the classification based on GS processing
 bc_dgplvm: the DGPLVM with the back constrains
 gs_ftr_model: the DGPLVM model with the mutual information constrains
