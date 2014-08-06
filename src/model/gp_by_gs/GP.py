@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 11 23:05:09 2014
 The Gaussian Process
-refered to the work by James Hensman in github https://github.com/jameshensman/pythonGPLVM
+refered to the work by James Hensman
 @author: mountain
 """
 import numpy as np

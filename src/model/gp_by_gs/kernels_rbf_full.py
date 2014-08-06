@@ -3,7 +3,7 @@
 Created on Wed Jul 16 11:38:48 2014
 kernels:
     K(xi,xj)=alpha*exp(-0.5*sum(gamma_m*(xi_m-xj_m)^2,m=1,2,..d))+theta1+deta(xi,xj)/theta2
-    refered to the work by James Hensman in github https://github.com/jameshensman/pythonGPLVM
+    refered to the work by James Hensman
 @author: mountain
 """
 

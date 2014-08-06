@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 18 16:19:51 2014
 
-The GPLVM refered to the work by James Hensman in github https://github.com/jameshensman/pythonGPLVM
+The GPLVM refered to the work by James Hensman
 
 Add the DGPLVM model
 

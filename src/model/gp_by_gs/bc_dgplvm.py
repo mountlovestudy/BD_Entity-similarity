@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jul 28 18:15:11 2014
-
+back constrained DGPLVM
 @author: mountain
 """
 
