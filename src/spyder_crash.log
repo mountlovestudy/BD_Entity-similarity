@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\spyderlib\spyder.py", line 2141, in main
+    mainwindow = run_spyder(app, options, args)
+  File "C:\Python27\lib\site-packages\spyderlib\spyder.py", line 2036, in run_spyder
+    main.setup()
+  File "C:\Python27\lib\site-packages\spyderlib\spyder.py", line 1024, in setup
+    self.remove_deprecated_shortcuts()
+  File "C:\Python27\lib\site-packages\spyderlib\spyder.py", line 1876, in remove_deprecated_shortcuts
+    remove_deprecated_shortcuts(data)
+  File "C:\Python27\lib\site-packages\spyderlib\guiconfig.py", line 95, in remove_deprecated_shortcuts
+    CONF.remove_option(section, option)
+  File "C:\Python27\lib\site-packages\spyderlib\userconfig.py", line 345, in remove_option
+    self.__save()
+  File "C:\Python27\lib\site-packages\spyderlib\userconfig.py", line 183, in __save
+    raise(e)
+IOError: [Errno 12] Not enough space
